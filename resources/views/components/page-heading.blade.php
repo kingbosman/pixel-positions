@@ -1,3 +1,1 @@
-<x-layout>
-    <h1 class="font-bold text-center text-4xl mb-8">{{ $slot }}</h1>
-</x-layout>
+<h1 class="font-bold text-center text-4xl mb-8">{{ $slot }}</h1>
